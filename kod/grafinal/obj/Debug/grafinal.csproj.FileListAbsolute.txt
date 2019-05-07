@@ -1,0 +1,25 @@
+C:\Users\Patryk\Desktop\KREDEK\gra2\grafinal\grafinal\bin\Debug\grafinal.exe.config
+C:\Users\Patryk\Desktop\KREDEK\gra2\grafinal\grafinal\bin\Debug\grafinal.exe
+C:\Users\Patryk\Desktop\KREDEK\gra2\grafinal\grafinal\bin\Debug\grafinal.pdb
+C:\Users\Patryk\Desktop\KREDEK\gra2\grafinal\grafinal\obj\Debug\grafinal.csprojAssemblyReference.cache
+C:\Users\Patryk\Desktop\KREDEK\gra2\grafinal\grafinal\obj\Debug\grafinal.Properties.Resources.resources
+C:\Users\Patryk\Desktop\KREDEK\gra2\grafinal\grafinal\obj\Debug\grafinal.csproj.GenerateResource.cache
+C:\Users\Patryk\Desktop\KREDEK\gra2\grafinal\grafinal\obj\Debug\grafinal.csproj.CoreCompileInputs.cache
+C:\Users\Patryk\Desktop\KREDEK\gra2\grafinal\grafinal\obj\Debug\grafinal.exe
+C:\Users\Patryk\Desktop\KREDEK\gra2\grafinal\grafinal\obj\Debug\grafinal.pdb
+C:\Users\Patryk\Desktop\KREDEK\gra2\grafinal\grafinal\obj\Debug\grafinal.MainGame.resources
+C:\Users\Patryk\Desktop\patryk_olszewski\lab2\Zad 2\kod\grafinal\bin\Debug\grafinal.exe.config
+C:\Users\Patryk\Desktop\patryk_olszewski\lab2\Zad 2\kod\grafinal\bin\Debug\grafinal.exe
+C:\Users\Patryk\Desktop\patryk_olszewski\lab2\Zad 2\kod\grafinal\bin\Debug\grafinal.pdb
+C:\Users\Patryk\Desktop\patryk_olszewski\lab2\Zad 2\kod\grafinal\bin\Debug\Interop.WMPLib.dll
+C:\Users\Patryk\Desktop\patryk_olszewski\lab2\Zad 2\kod\grafinal\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Patryk\Desktop\patryk_olszewski\lab2\Zad 2\kod\grafinal\obj\Debug\grafinal.csprojAssemblyReference.cache
+C:\Users\Patryk\Desktop\patryk_olszewski\lab2\Zad 2\kod\grafinal\obj\Debug\Interop.WMPLib.dll
+C:\Users\Patryk\Desktop\patryk_olszewski\lab2\Zad 2\kod\grafinal\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Patryk\Desktop\patryk_olszewski\lab2\Zad 2\kod\grafinal\obj\Debug\grafinal.csproj.ResolveComReference.cache
+C:\Users\Patryk\Desktop\patryk_olszewski\lab2\Zad 2\kod\grafinal\obj\Debug\grafinal.MainGame.resources
+C:\Users\Patryk\Desktop\patryk_olszewski\lab2\Zad 2\kod\grafinal\obj\Debug\grafinal.Properties.Resources.resources
+C:\Users\Patryk\Desktop\patryk_olszewski\lab2\Zad 2\kod\grafinal\obj\Debug\grafinal.csproj.GenerateResource.cache
+C:\Users\Patryk\Desktop\patryk_olszewski\lab2\Zad 2\kod\grafinal\obj\Debug\grafinal.csproj.CoreCompileInputs.cache
+C:\Users\Patryk\Desktop\patryk_olszewski\lab2\Zad 2\kod\grafinal\obj\Debug\grafinal.exe
+C:\Users\Patryk\Desktop\patryk_olszewski\lab2\Zad 2\kod\grafinal\obj\Debug\grafinal.pdb

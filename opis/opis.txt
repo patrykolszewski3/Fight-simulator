@@ -1,0 +1,13 @@
+Niniejsza gra to klikalny, turowy symulator walki 1 na 1.
+Aby rozpocz¹æ walkê, ka¿dy z graczy musi wybraæ jedn¹ z postaci ró¿ni¹cych siê posiadan¹ liczb¹ punktów zdrowia lub punktów obra¿eñ.
+
+Mo¿e wybraæ postaæ spoœród postaci gotowych, lub te¿ dodaæ w³asn¹ - wpisuj¹c dane w odpowiednie pola, a nastêpnie klikaj¹c przycisk "dodaj postaæ". Od tego momentu postaæ jest dostêpna w rozwijalnych listach.
+
+Po wybraniu postaci, nale¿y klikn¹æ przycisk "Start" - rozpoczyna to turê gracza nr 1. 
+
+W ka¿dej turze mo¿na wykonaæ jedn¹ z 3 dostêpnych akcji:
+a) Atak - od HP przeciwnika zostaje odjêta iloœæ punktów DMG posiadanych przez nasz¹ postaæ
+b) Leczenie - do punktów HP naszej postaci zostaje dodana premia w wysokoœci po³owy punktów DMG posiadanych przez nasz¹ postaæ
+c) Koniec tury - mo¿emy bez wykonywania Ataku czy Leczenia zakoñczyæ swoj¹ turê
+
+Gra koñczy siê w momencie, kiedy liczba HP jednego z graczy osi¹gnie liczbê 0.
